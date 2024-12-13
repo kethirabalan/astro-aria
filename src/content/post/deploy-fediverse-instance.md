@@ -41,7 +41,7 @@ Therefore, I would like to share this solution:
 
 Deployment tutorial:
 
-[![ccbikai/pleroma-on-cloud - GitHub](https://github.html.zone/ccbikai/pleroma-on-cloud)](https://github.com/ccbikai/pleroma-on-cloud)
+[![ccbikethirabalan/pleroma-on-cloud - GitHub](https://github.html.zone/ccbikethirabalan/pleroma-on-cloud)](https://github.com/ccbikethirabalan/pleroma-on-cloud)
 
 Remember, free things are often the most expensive. It is important to regularly back up the database and cloud storage.
 

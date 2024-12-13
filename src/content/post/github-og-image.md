@@ -7,7 +7,7 @@ dateFormatted: Dec 19th, 2023
 
 Previously, when sharing GitHub on my blog, I always used [GitHub Repository Card](https://gh-card.dev/) for sharing, but it doesn't have good support for Chinese and doesn't support line breaks.
 
-[![ccbikai/cloudflare-worker-image - GitHub](https://gh-card.dev/repos/ccbikai/cloudflare-worker-image.svg?fullname=)](https://github.com/ccbikai/cloudflare-worker-image)
+[![ccbikethirabalan/cloudflare-worker-image - GitHub](https://gh-card.dev/repos/ccbikethirabalan/cloudflare-worker-image.svg?fullname=)](https://github.com/ccbikethirabalan/cloudflare-worker-image)
 
 Originally, I planned to create my own using [@vercel/og](https://vercel.com/docs/functions/edge-functions/og-image-generation), but I accidentally discovered that GitHub provides comprehensive and beautiful Open Graph images on Twitter. So, I wrote a script to extract and use them for blog previews.
 
@@ -51,4 +51,4 @@ For example, [https://github.com/vercel/next.js](https://github.com/vercel/next.
 
 The code has been shared on GitHub for those interested to explore.
 
-[![ccbikai/github-og-image - GitHub](https://github.html.zone/ccbikai/github-og-image)](https://github.com/ccbikai/github-og-image)
+[![ccbikethirabalan/github-og-image - GitHub](https://github.html.zone/ccbikethirabalan/github-og-image)](https://github.com/ccbikethirabalan/github-og-image)

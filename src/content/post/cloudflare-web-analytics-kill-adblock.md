@@ -5,7 +5,7 @@ description: Solving the issue of Cloudflare Web Analytics being blocked by AdBl
 dateFormatted: Jan 8th, 2024
 ---
 
-Earlier, we solved the issues of [Vercel Analytics](https://dev.to/ccbikai/jie-jue-vercel-analytics-bei-adblock-ping-bi-wen-ti-1o21-temp-slug-5601874) and [Umami](https://dev.to/ccbikai/jie-jue-umami-bei-adblock-ping-bi-wen-ti-3kc2-temp-slug-2355567) being blocked by AdBlock, and now we are also going to solve the problem for [Email.ML](https://email.ml/) which uses [Cloudflare Web Analytics](https://www.cloudflare.com/zh-cn/web-analytics/).
+Earlier, we solved the issues of [Vercel Analytics](https://dev.to/ccbikethirabalan/jie-jue-vercel-analytics-bei-adblock-ping-bi-wen-ti-1o21-temp-slug-5601874) and [Umami](https://dev.to/ccbikethirabalan/jie-jue-umami-bei-adblock-ping-bi-wen-ti-3kc2-temp-slug-2355567) being blocked by AdBlock, and now we are also going to solve the problem for [Email.ML](https://email.ml/) which uses [Cloudflare Web Analytics](https://www.cloudflare.com/zh-cn/web-analytics/).
 
 Cloudflare Web Analytics is blocked by the `||cloudflareinsights.com^` rule. Its script address is `https://static.cloudflareinsights.com/beacon.min.js`, and the data reporting address is `https://cloudflareinsights.com/cdn-cgi/rum`.
 

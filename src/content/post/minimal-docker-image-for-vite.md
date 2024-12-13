@@ -200,6 +200,6 @@ v1                                 latest      8ae6b2bddf0a   6 minutes ago    3
 v0                                 latest      653236defcbb   11 minutes ago   1.06GB
 ```
 
-The example project is open-source and can be viewed on [GitHub](https://github.com/ccbikai/BroadcastChannel/pkgs/container/broadcastchannel).
+The example project is open-source and can be viewed on [GitHub](https://github.com/ccbikethirabalan/BroadcastChannel/pkgs/container/broadcastchannel).
 
-[![BroadcastChannel](https://github.html.zone/ccbikai/BroadcastChannel)](https://github.com/ccbikai/BroadcastChannel)
+[![BroadcastChannel](https://github.html.zone/ccbikethirabalan/BroadcastChannel)](https://github.com/ccbikethirabalan/BroadcastChannel)

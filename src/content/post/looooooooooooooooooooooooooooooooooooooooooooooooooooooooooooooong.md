@@ -5,7 +5,7 @@ description: loooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo.ong
 dateFormatted: Jun 1th, 2024
 ---
 
-[![GitHub](https://github.html.zone/ccbikai/loooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo.ong)](https://github.com/ccbikai/loooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo.ong)
+[![GitHub](https://github.html.zone/ccbikethirabalan/loooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo.ong)](https://github.com/ccbikethirabalan/loooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo.ong)
 
 This little toy was finished last week. Just a few lines of code.
 

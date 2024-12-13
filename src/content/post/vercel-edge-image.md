@@ -5,7 +5,7 @@ description: Using Vercel Edge to Process Images
 dateFormatted: Dec 17th, 2023
 ---
 
-Previously, I shared an article on [using Cloudflare Worker to process images](https://dev.to/ccbikai/shi-yong-cloudflare-worker-chu-li-tu-pian-38dl-temp-slug-7437591). However, due to the limitations of the free version of Worker, which only allows for 10ms of CPU usage, there were frequent resource overages and high failure rates. Today, I had some free time, so I decided to try using Vercel Edge instead and share my findings with those who are interested.
+Previously, I shared an article on [using Cloudflare Worker to process images](https://dev.to/ccbikethirabalan/shi-yong-cloudflare-worker-chu-li-tu-pian-38dl-temp-slug-7437591). However, due to the limitations of the free version of Worker, which only allows for 10ms of CPU usage, there were frequent resource overages and high failure rates. Today, I had some free time, so I decided to try using Vercel Edge instead and share my findings with those who are interested.
 
 The official version of Vercel also supports image processing, but it has a limit of 1000 original images per month and only supports scaling. By using Vercel Edge to process images, you can have additional features such as scaling, cropping, watermarking, and filters. However, please note that the free version of Vercel only allows for 100GB of monthly traffic, so it is recommended to use it in conjunction with a CDN for actual usage.
 
@@ -73,8 +73,8 @@ In theory, it supports various operations available in Photon. If you are intere
 
 I have open-sourced this solution on my GitHub repository, and you can deploy it by following the documentation.
 
-[![ccbikai/vercel-edge-image - GitHub](https://github.html.zone/ccbikai/vercel-edge-image)](https://github.com/ccbikai/vercel-edge-image)
+[![ccbikethirabalan/vercel-edge-image - GitHub](https://github.html.zone/ccbikethirabalan/vercel-edge-image)](https://github.com/ccbikethirabalan/vercel-edge-image)
 
 * * *
 
-[![Buy Me A Coffee](https://static.miantiao.me/share/0WmsVP/CcmGr8.png)](https://www.buymeacoffee.com/ccbikai)
+[![Buy Me A Coffee](https://static.miantiao.me/share/0WmsVP/CcmGr8.png)](https://www.buymeacoffee.com/ccbikethirabalan)

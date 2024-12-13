@@ -97,8 +97,8 @@ In theory, it supports all the operations of Photon. If you are interested, you 
 
 I have open-sourced this solution on my GitHub. If you need it, you can follow the documentation to deploy it.
 
-[![ccbikai/cloudflare-worker-image - GitHub](https://github.html.zone/ccbikai/cloudflare-worker-image)](https://github.com/ccbikai/cloudflare-worker-image)
+[![ccbikethirabalan/cloudflare-worker-image - GitHub](https://github.html.zone/ccbikethirabalan/cloudflare-worker-image)](https://github.com/ccbikethirabalan/cloudflare-worker-image)
 
 * * *
 
-[![Buy Me A Coffee](https://static.miantiao.me/share/0WmsVP/CcmGr8.png)](https://www.buymeacoffee.com/ccbikai)
+[![Buy Me A Coffee](https://static.miantiao.me/share/0WmsVP/CcmGr8.png)](https://www.buymeacoffee.com/ccbikethirabalan)
